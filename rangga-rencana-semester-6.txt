@@ -1,5 +1,6 @@
 Ingin belajar mengenai koding lebih baik lagi
 *Tailwind CSS
+*Bootstrap 5
 belajar tentang IoT
 Project Keluarga Abah mulai progress
 Membaca Banyak novel Baru
