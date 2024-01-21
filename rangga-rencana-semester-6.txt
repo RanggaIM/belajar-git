@@ -5,3 +5,5 @@ belajar tentang IoT
 Project Keluarga Abah mulai progress
 Membaca Banyak novel Baru
 Mulai olahraga
+Belajar Network
+*Cisco Packet Tracer
